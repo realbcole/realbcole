@@ -2,15 +2,11 @@
 <h3 align="center">A passionate full stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRlNmMwOTkxNjQzMWNiMzJjYjhiNWU1MjkwZjFkMmJhMTI0MTY1NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning **Backend Development**
-
 - 👨‍💻 All of my projects are available at [https://www.brandoncole.dev/](https://www.brandoncole.dev/)
 
-- 💬 Ask me about **my projects**
+- 📫 Reach me at **realbcole@gmail.com**
 
-- 📫 How to reach me **realbcole@gmail.com**
-
-- 📄 Know about my experiences [https://www.brandoncole.dev/resume.pdf](https://www.brandoncole.dev/resume.pdf)
+- 📄 Learn about my experiences [https://www.brandoncole.dev/resume.pdf](https://www.brandoncole.dev/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
