@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Brandon Cole</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
+- 🌱 I’m currently learning **Backend Development**
+
 - 👨‍💻 All of my projects are available at [https://www.brandoncole.dev/](https://www.brandoncole.dev/)
+
+- 💬 Ask me about **my projects**
 
 - 📫 How to reach me **realbcole@gmail.com**
 
