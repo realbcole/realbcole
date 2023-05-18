@@ -6,7 +6,7 @@
 
 - 📫 Reach me at **realbcole@gmail.com**
 
-- 📄 Learn about my experiences [https://www.brandoncole.dev/resume.pdf](https://www.brandoncole.dev/resume.pdf)
+- 📄 Learn about my experience [https://www.brandoncole.dev/resume.pdf](https://www.brandoncole.dev/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
